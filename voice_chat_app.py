@@ -12,7 +12,7 @@ from io import BytesIO
 # Your Google API Key for Gemini.
 # In Canvas, leave this empty; it will be injected at runtime.
 # For local execution, set it as an environment variable or hardcode (not recommended for production).
-api_key = "AIzaSyDLYnud-Yev5HyMcvv9o7F13brbXpRVloY"
+api_key = "api_key_here"
 
 # --- LLM and Speech-to-Text/Text-to-Speech Models ---
 # Using gemini-2.0-flash for conversational tasks.
